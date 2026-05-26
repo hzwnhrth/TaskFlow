@@ -1,0 +1,14 @@
+# TaskFlow
+
+# API data storage
+api/data/tasks.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
